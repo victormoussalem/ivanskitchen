@@ -9,3 +9,7 @@ def index():
 @app.route('/test')
 def indexNOM():
     return render_template('index.html')
+
+@app.route('/test-1')
+def imageslides():
+    return render_template('image-slides.html')
