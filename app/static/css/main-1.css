@@ -1551,7 +1551,7 @@
 /* Basic */
 
 	html, body {
-		background: #1c1d26;
+		background: #E09CD7;
 	}
 
 	body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3332,7 +3332,7 @@
 
 	#banner {
 		background-attachment: fixed;
-		background-color: #272833;
+		background-color: #E90ACB;
 		background-image: url("../../static/css/images/IK-Food-1.jpg");
 		background-position: center center;
 		background-size: cover;
@@ -3413,7 +3413,7 @@
 /* Footer */
 
 	#footer {
-		background: #272833;
+		background: #913790;
 		padding: 6em 0;
 		text-align: center;
 	}
